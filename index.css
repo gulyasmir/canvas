@@ -1,0 +1,12 @@
+figure {
+    width: 200px;
+  }
+  
+  figure > canvas,
+  figure > img {
+    box-sizing: border-box;
+    border: 1px solid black;
+    width: 200px;
+    height: 200px;
+  }
+  
